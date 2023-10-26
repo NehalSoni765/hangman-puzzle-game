@@ -2,7 +2,7 @@
 
 ## Live Demo
 
-Check out the live demo of the Hangman game here: [Live Demo](https://hangman-gamev1.netlify.app)
+Check out the live demo of the Hangman game here: [Live Demo](https://wordguessingfun.netlify.app/)
 
 ## Description
 
@@ -30,10 +30,8 @@ This is a Hangman game created by Me. The game is built using HTML, JS, and Babe
    npm install
 4. Start the development server:
    ```bash
-   npm run build
-5. Go to public folder.
-6. Right click on index.html file and selecting `open to live server`
-7. Open the browser and play the game.
+   npm run start
+7. Open the browser https://localhost:3002 and play the game.
 
 ## Usage
 1. When you open the game, a random word will be generated.
